@@ -13,12 +13,12 @@ const wallets = [
   walletConnect(),
   inAppWallet({
     auth: {
-      options: [
+   options: [
         "email",
-	      "x",
+        "x",
         "google",
         "apple",
-	      "telegram",
+        "telegram",
         "facebook",
         "phone",
         "discord",
